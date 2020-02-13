@@ -3,6 +3,7 @@
     "https://raw.githubusercontent.com/ShubhamJump2Tech/PhotoFrameImages/master/RamzanFrames/portrait/frame1.png"
     ],
   "landscape":[
+    "https://raw.githubusercontent.com/ShubhamJump2Tech/PhotoFrameImages/master/RamzanFrames/landscape/download.jpg",
     "https://raw.githubusercontent.com/ShubhamJump2Tech/PhotoFrameImages/master/RamzanFrames/landscape/lf1.png",
     "https://raw.githubusercontent.com/ShubhamJump2Tech/PhotoFrameImages/master/RamzanFrames/landscape/lf2.png",
     "https://raw.githubusercontent.com/ShubhamJump2Tech/PhotoFrameImages/master/RamzanFrames/landscape/lf3.png",
