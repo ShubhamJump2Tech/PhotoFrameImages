@@ -1,0 +1,26 @@
+{
+  "portrait":[
+    ],
+  "landscape":[
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame1.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame2.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame3.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame4.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame5.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame6.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame7.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame8.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame9.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame10.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame11.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame12.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame13.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame14.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame15.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame16.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame17.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame18.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame19.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Ganesh%20Photo%20Frames/landscape/frame20.webp"
+    ]
+}
